@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/online-shopping-easy-buy/static/css/main.8bcbd900.chunk.css",
-    "main.js": "/online-shopping-easy-buy/static/js/main.2f5f6f3d.chunk.js",
-    "main.js.map": "/online-shopping-easy-buy/static/js/main.2f5f6f3d.chunk.js.map",
+    "main.js": "/online-shopping-easy-buy/static/js/main.f80b1ca0.chunk.js",
+    "main.js.map": "/online-shopping-easy-buy/static/js/main.f80b1ca0.chunk.js.map",
     "runtime-main.js": "/online-shopping-easy-buy/static/js/runtime-main.00163aeb.js",
     "runtime-main.js.map": "/online-shopping-easy-buy/static/js/runtime-main.00163aeb.js.map",
     "static/js/2.cc1fe603.chunk.js": "/online-shopping-easy-buy/static/js/2.cc1fe603.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.00163aeb.js",
     "static/js/2.cc1fe603.chunk.js",
     "static/css/main.8bcbd900.chunk.css",
-    "static/js/main.2f5f6f3d.chunk.js"
+    "static/js/main.f80b1ca0.chunk.js"
   ]
 }
