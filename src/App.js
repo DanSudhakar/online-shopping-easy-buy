@@ -7,7 +7,7 @@ import Products from './Components/Products';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Header></Header>
         <Switch>
           <Route path="/" exact component={Products} />
