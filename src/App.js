@@ -7,12 +7,16 @@ import Products from './Components/Products';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Header></Header>
         <Switch>
           <Route path="/" exact component={Products} />
           <Route path="/product/:productId" exact component={ProductDetail} />
-          <Route path="/notfound" exact component={() => <div>no records</div>}></Route>
+          <Route
+            path="/notfound"
+            exact
+            component={() => <div>no records</div>}
+          ></Route>
           <Route>404 Not Found</Route>
         </Switch>
       </BrowserRouter>
