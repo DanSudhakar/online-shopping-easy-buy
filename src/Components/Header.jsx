@@ -17,7 +17,7 @@ export const Header = () => {
           <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="#">
-          Easy Buy
+          Easy-Buy
         </a>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
